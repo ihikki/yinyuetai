@@ -1,0 +1,1 @@
+export const url="http://m.yinyuetai.com/mv/get-simple-video-info"

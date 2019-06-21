@@ -1,0 +1,1 @@
+export const url='http://comment.yinyuetai.com/mv/video-promo-comment-list?_api=nattyFetch&_mock=false&_stamp=1560497508765'

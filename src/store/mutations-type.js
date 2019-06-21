@@ -1,0 +1,9 @@
+export const SET_VIDEOID="SET_VIDEOID";
+export const SET_ARTISTS="SET_ARTISTS";
+export const SET_CONTENT="SET_CONTENT";
+export const SET_DURATION="SET_DURATION";
+export const SET_ID="SET_ID";
+export const SET_PUBDATE="SET_PUBDATE";
+export const SET_VIDEOURL="SET_VIDEOURL";
+export const SET_VIDEOURL2="SET_VIDEOURL2";
+export const SET_VIDEOURL3="SET_VIDEOURL3";
